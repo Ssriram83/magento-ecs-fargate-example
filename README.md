@@ -1,0 +1,4 @@
+- [] Run a Dockerized Magento locally
+- [] Run the Dockerized Magento on ECS Fargate + MySQL
+- [] Run a CDK to Templattize it
+- [] Write a Readme for it in the style of a blog post. 
